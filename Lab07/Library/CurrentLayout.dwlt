@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 52
+  controlID: 127
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 53
+  controlID: 11
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 54
+  controlID: 12
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,19 +399,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Characters/ThirdPersonCharacter/Models
+    - Assets/Textures/TangyTextures Free Materials/Textures/Bricks1
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Characters/ThirdPersonCharacter/Models
+  - Assets/Textures/TangyTextures Free Materials/Textures/Bricks1
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Mateusz\Desktop\GiM\Lab07
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 60270000
-    m_LastClickedID: 10080
-    m_ExpandedIDs: 000000004a27000050270000ca270000d2270000d8270000e4270000482800007c280000d8280000da280000dc280000662b0000682b00006a2b00006c2b00006e2b0000702b0000722b000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 216}
+    m_SelectedIDs: e6280000
+    m_LastClickedID: 10470
+    m_ExpandedIDs: 00000000482700004e270000c8270000d0270000d6270000e2270000482800007c280000dc280000de280000e0280000722b0000742b0000762b0000782b00007a2b00007c2b00007e2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -439,7 +439,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004a27000050270000ca270000d2270000d8270000e4270000482800007c280000d8280000da280000dc280000662b0000682b00006a2b00006c2b00006e2b0000702b0000722b0000
+    m_ExpandedIDs: 00000000482700004e270000c8270000d0270000d6270000e2270000482800007c280000dc280000de280000e0280000722b0000742b0000762b0000782b00007a2b00007c2b00007e2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,7 +520,7 @@ MonoBehaviour:
     y: 92
     width: 275
     height: 870
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 188.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -555,9 +555,9 @@ MonoBehaviour:
     height: 488
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: c8b6ceff4a75f3ff9cfbffff00000000
+    m_SelectedIDs: 60290000
+    m_LastClickedID: 10592
+    m_ExpandedIDs: a6fbffff000000006c290000a4290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -612,9 +612,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.309059, y: 1.6227782, z: -2.337986}
+    m_Target: {x: 1.2618527, y: 2.658339, z: -1.696291}
     speed: 2
-    m_Value: {x: -8.309059, y: 1.6227782, z: -2.337986}
+    m_Value: {x: 1.2618527, y: 2.658339, z: -1.696291}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -637,13 +637,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: -0.13307011, y: 0.02229792, z: -0.002994584, w: -0.9908513}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 0.99999994}
+    m_Value: {x: -0.13307011, y: 0.02229792, z: -0.002994584, w: -0.9908513}
   m_Size:
-    m_Target: 18.808691
+    m_Target: 10.97262
     speed: 2
-    m_Value: 18.808691
+    m_Value: 10.97262
   m_Ortho:
     m_Target: 0
     speed: 2
